@@ -3,7 +3,7 @@ This repository contains an in-depth analysis of Facebook Ads and Google Ads dat
 
 The goal of this analysis is to compare and assess the performance of Facebook Ads and Google Ads, helping to identify trends, optimize ad spend, and improve campaign effectiveness. The project utilizes Excel functions, pivot tables, charts, and dashboards to transform raw ad data into actionable insights.
 
-C:\Users\dampm\OneDrive\Pictures\Screenshots\Screenshot 2025-03-02 222501.png
+![Alt text](=)
 
 
 ## Key Features
