@@ -10,7 +10,7 @@ The goal of this analysis is to compare and assess the performance of Facebook A
 ✅ Data Cleaning & Preparation – Organizing and structuring raw ad data for analysis.
 ✅ Pivot Tables & Charts – Summarizing key performance indicators (KPIs) for deeper insights.
 ✅ Interactive Dashboard – A visually engaging Excel dashboard displaying ad performance trends.
-✅ Performance Comparison – Evaluating Google Ads vs. Facebook Ads based on engagement, cost, and conversions.
+✅ Performance Comparison – Evaluating Google Ads vs. Facebook Ads based on engagement and cost.
 ✅ Optimization Insights – Identifying areas for improvement in ad performance.
 
 📊 
