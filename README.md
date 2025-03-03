@@ -15,8 +15,7 @@ The goal of this analysis is to compare and assess the performance of Facebook A
 
 📊 
 ## Insights
-Click-Through Rates (CTR) – Measuring audience engagement.
-Top-Performing Campaigns – Highlighting the most effective ad strategies.
+Insights include Ad spend analysis and show the age demographic for measuring ad enagaement.
 This project is ideal for digital marketers, data analysts, and business professionals looking to leverage Excel for marketing analytics and data-driven decision-making.
 
 ![Alt text](https://github.com/mbrook14/Excel-Data-Analysis/blob/main/Screenshot%202025-03-02%20222745.png)
