@@ -1,5 +1,5 @@
 ### Excel-Data-Analysis
-This repository contains an in-depth analysis of Facebook Ads and Google Ads data using Microsoft Excel. The project focuses on evaluating key advertising metrics such as impressions, clicks, conversions, cost-per-click (CPC) and cost-per-acquisition (CPA).
+This repository contains an in-depth analysis of Facebook Ads and Google Ads data using Microsoft Excel. The project focuses on evaluating key advertising metrics such as impressions, clicks, cost-per-click (CPC) and cost-per-acquisition (CPA).
 
 The goal of this analysis is to compare and assess the performance of Facebook Ads and Google Ads, helping to identify trends, optimize ad spend, and improve campaign effectiveness. The project utilizes Excel functions, pivot tables, charts, and dashboards to transform raw ad data into actionable insights.
 
