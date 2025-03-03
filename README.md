@@ -15,10 +15,11 @@ The goal of this analysis is to compare and assess the performance of Facebook A
 
 📊 
 ## Dashboard Insights
-Ad Spend Trends – Breakdown of budget allocation and cost-effectiveness.
 Click-Through Rates (CTR) – Measuring audience engagement.
-Conversion Analysis – Understanding which platform delivers better ROI.
 Top-Performing Campaigns – Highlighting the most effective ad strategies.
 This project is ideal for digital marketers, data analysts, and business professionals looking to leverage Excel for marketing analytics and data-driven decision-making.
+
+![Alt text](https://github.com/mbrook14/Excel-Data-Analysis/blob/main/Screenshot%202025-03-02%20222514.png)
+
 
 🚀 Get Started: Download the Excel file, explore the dashboards, and gain valuable insights into ad performance!
